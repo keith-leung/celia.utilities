@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Celia.io.Core.MicroServices.Utilities</id>
+    <version>0.1.0</version>
+    <authors>Keith Leung</authors>
+    <owners>dotnet.ai</owners>
+    <!--<licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>-->
+    <license type="expression">MPL-2.0</license>
+    <projectUrl>https://github.com/keith-leung/celia.utilities</projectUrl>
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A part of my Celia.io.Core platform. A project for some utilized functions what I cannot find in https://github.com/dotnetcore/Util right now.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Utility Celia.io</tags>
+    <dependencies>
+      <!--<dependency id="SampleDependency" version="1.0" />-->
+    </dependencies>
+  </metadata>
+</package>
