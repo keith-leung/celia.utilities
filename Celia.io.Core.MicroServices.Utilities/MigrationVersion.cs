@@ -4,7 +4,7 @@ using System.Text;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace BR.MicroServices.Utilities
+namespace Celia.io.Core.MicroServices.Utilities
 {
     [Table("__migrationversions")]
     public class MigrationVersion
